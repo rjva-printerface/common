@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/rjva-printerface/book-service/helpers"
-	"github.com/rjva-printerface/book-service/helpers/colors"
+	"github.com/rjva-printerface/common/helpers"
+	"github.com/rjva-printerface/common/helpers/colors"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
